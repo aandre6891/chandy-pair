@@ -1,3 +1,3 @@
-def print_hello_world
-  "Hello World!"
+def print_hello_name(name)
+  "Hello #{name}!"
 end
